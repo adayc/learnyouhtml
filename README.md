@@ -1,4 +1,4 @@
-![learnyouhtml](Todos los retos.jpg)
+![learnyouhtml](Todos los retos.JPG)
 
 
 ![learnyouhtml](./preview.png)
